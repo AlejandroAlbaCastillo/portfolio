@@ -27,15 +27,15 @@ export default function Header() {
         // {
         //     name: "InfoJobs",
         //     icon: "/social/rrss-infojobs.svg",
-        //     url: "https://x.com/goyo_is_a_dev",
+        //     url: "",
         //     alt: "InfoJobs Profile",
         // },
-        // {
-        //     name: "YouTube",
-        //     icon: "/social/youtube.svg",
-        //     url: "https://www.youtube.com/@goyo_is_a_dev",
-        //     alt: "YouTube Channel",
-        // },
+        {
+            name: "CodePen",
+            icon: "/social/logo-black.svg",
+            url: "https://codepen.io/Alba-Castillo",
+            alt: "CodePen",
+        },
     ];
 
     return (

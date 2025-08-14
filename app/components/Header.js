@@ -19,22 +19,22 @@ export default function Header() {
             alt: "LinkedIn Profile",
         },
         {
-            name: "GitHub",
-            icon: "/social/github.svg",
-            url: "https://github.com/AlejandroAlbaCastillo",
-            alt: "GitHub Profile",
+            name: "Enviar un correo",
+            icon: "/social/mail.svg",
+            url: "mailto:alejandroalba02@gmail.com",
+            alt: "Email",
         },
-        // {
-        //     name: "InfoJobs",
-        //     icon: "/social/rrss-infojobs.svg",
-        //     url: "",
-        //     alt: "InfoJobs Profile",
-        // },
         {
             name: "CodePen",
             icon: "/social/logo-black.svg",
             url: "https://codepen.io/Alba-Castillo",
             alt: "CodePen",
+        },
+        {
+            name: "GitHub",
+            icon: "/social/github.svg",
+            url: "https://github.com/AlejandroAlbaCastillo",
+            alt: "GitHub Profile",
         },
     ];
 

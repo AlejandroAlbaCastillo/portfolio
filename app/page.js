@@ -27,23 +27,18 @@ export default function Home() {
                 "TPV",
                 "Configuraciones y mejoras de la aplicación"
             ],
-            technologies: ["PHP", "JavaScript", "Postgre", "Yii", "Syncfusion"],
+            technologies: ["PHP8", "JavaScript", "Postgre", "Yii", "Syncfusion","GIT"],
             image: "/company_logo/ispgestion.png",
         },
-        // {
-        //     title: "Analista en Prácticas",
-        //     company: "KPMG",
-        //     period: "Mar. 2023 - Ago. 2023",
-        //     description:
-        //         "Colaboración con el departamento de Estrategia (Technology Enablement) participando en proyectos de desarrollo y transformación digital para clientes corporativos. Esta experiencia me permitió adquirir una visión global del ciclo de vida de proyectos tecnológicos en entornos corporativos, decidiendo posteriormente orientar mi carrera hacia equipos más pequeños, donde pudiera tener mayor impacto directo en el desarrollo.",
-        //     technologies: [
-        //         "Quality Assurance",
-        //         "Documentación Técnica",
-        //         "Presentaciones Ejecutivas",
-        //         "Consultoría Tecnológica",
-        //     ],
-        //     image: "/company_logo/kpmg.png",
-        // },
+        {
+             title: "Desarrollador senior",
+             company: "Rytmica (ISPGestion)",
+             period: "Enero. 2026 - Presente",
+             description:
+                 "Desarrollo de aplicación de gestión de música generada con inteligencia artificial",
+             technologies: ["PHP 8","JavaScript","MariaDB","YII 2","GIT"],
+             image: "/company_logo/rytmica.png",
+         },
         // {
         //     title: "Ingeniero de Investigación en Visión Artificial",
         //     company: "Universidad de Valladolid (UVa)",

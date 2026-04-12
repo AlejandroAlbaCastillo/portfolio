@@ -36,7 +36,7 @@ export default function Home() {
              period: "Enero. 2026 - Presente",
              description:
                  "Desarrollo de aplicación de gestión de música generada con inteligencia artificial",
-             technologies: ["PHP 8","JavaScript","MariaDB","YII 2","GIT"],
+             technologies: ["PHP 8","JavaScript","MariaDB","Yii 2","GIT"],
              image: "/company_logo/rytmica.png",
          },
         // {
